@@ -3,7 +3,7 @@
 const char* qual = "TODO";
 
 int main(int argc, char* argv[]) {
-	printf("%s\n", qual);
+	printf("%s", qual);
 
 	return 0;
 }
